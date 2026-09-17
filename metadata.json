@@ -1,0 +1,6 @@
+{
+  "name": "Vishwakarma Internet Cafe",
+  "description": "विश्वकर्मा इंटरनेट कैफ़े व CSC डिजिटल सेवा केंद्र सिरदला - ऑनलाइन फॉर्म, आधार बैंकिंग, राशन कार्ड, दाखिल खारिज, पैन कार्ड, प्रिंटिंग और BSNL फाइबर इंटरनेट सेवा।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
